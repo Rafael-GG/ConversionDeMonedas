@@ -1,0 +1,6 @@
+# Ejemplo de config.properties.
+# Copia este archivo a src/main/resources/config.properties (local) y reemplaza el valor por tu API key real.
+# NO subir el archivo config.properties con la clave real al repositorio público.
+
+api.key=REEMPLAZA_POR_TU_API_KEY_AQUI
+

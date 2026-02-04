@@ -58,4 +58,4 @@ La aplicación cuenta con un campo de entrada para el monto, selectores para las
 
 ## ✒️ Autor
 
-**Rafael-GG** - [Perfil de GitHub](https://github.com/Rafael-GG)
+**Rafael-GG** - [GitHub](https://github.com/Rafael-GG) - [LinkedIn](https://www.linkedin.com/in/rafael-gerson-gimenez)
